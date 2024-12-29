@@ -1,0 +1,9 @@
+inp
+sta Num
+inp
+add Num
+out
+hlt
+
+Num: .data 1 0
+

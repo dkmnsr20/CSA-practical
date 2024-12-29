@@ -1,0 +1,7 @@
+inp
+sta x
+lda x 
+out
+hlt
+
+x: .data 1 0
